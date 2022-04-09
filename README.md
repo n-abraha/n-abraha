@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nebay
+- 👋 Hi, I’m Nab
 - 👀 I’m interested in code quality and building application.
 - 🌱 I’m currently learning aws
 - 💞️ I’m a volunteer at CodeYourFuture, support members of the local community as they learn web development.
